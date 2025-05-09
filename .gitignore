@@ -1,0 +1,16 @@
+# Ignore the llama.cpp folder
+llama.cpp/
+
+# Ignore Python virtual environments
+env/
+venv/
+.venv/
+
+# Ignore Python cached files and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore the requirements.txt file
+requirements.txt
